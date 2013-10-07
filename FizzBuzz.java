@@ -1,3 +1,9 @@
+/*
+  Just a quick exercises I did.  I heard that people a few years ago liked to ask this question to career candidates
+  in order to weed out people who weren't really worth the time.  So I figured I would give it a quick shot.  Also,
+  I am adding this comment to see how pushing and pulling and updating documents works on GitHub.
+*/
+
 public class FizzBuzz{
 	public static void main(String[] Args){
 	
